@@ -6,6 +6,8 @@
 export const siteConfig = {
   "podcastName": "Denver Accident Law w. Jeremy Rosenthal",
   "tagline": "NEW EPISODE",
+  "podcastUrl": "https://podcast-denvercaraccidentlawyer.vercel.app",
+  "rssFeedUrl": process.env.PODCAST_RSS_URL || "",
   "platformLinks": {
     "apple": "#",
     "spotify": "#"
