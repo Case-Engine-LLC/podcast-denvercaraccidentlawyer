@@ -4,9 +4,9 @@
  */
 
 export const siteConfig = {
-  "podcastName": "Denver Accident Law w. Jeremy Rosenthal",
+  "podcastName": "Denver Car Accident Attorneys - Law Firm of Jeremy Rosenthal",
   "tagline": "NEW EPISODE",
-  "podcastUrl": "https://podcast-denvercaraccidentlawyer.vercel.app",
+  "podcastUrl": "https://denvercaraccident.lawyer",
   "rssFeedUrl": process.env.PODCAST_RSS_URL || "",
   "platformLinks": {
     "apple": "#",
@@ -20,56 +20,56 @@ export const siteConfig = {
 
 export const episode = {
   "number": 1,
-  "title": "Understanding Your Rights After a Denver Car Accident",
+  "title": "Rear-Ended on I-25: Your First 24 Hours Under Colorado Law",
   "date": "01.15.24",
   "duration": "00:45:30",
-  "description": "In this inaugural episode, Jeremy Rosenthal breaks down the essential steps every accident victim in Denver needs to take immediately following a collision. Jeremy discusses common mistakes that can jeopardize your claim, how Colorado's modified comparative negligence law affects your case, and what to expect when dealing with insurance companies. This episode provides practical guidance for protecting your rights and maximizing your recovery after a car accident in the Denver metro area."
+  "description": "Jeremy Rosenthal walks through what to do in the first 24 hours after a rear-end crash on I-25 or any major Denver road. From scene documentation, exchanging information, and seeking immediate medical care, to dealing with the at-fault driver's insurance company, Jeremy explains Colorado's two-year statute of limitations, how the modified comparative fault rule and 50% bar affect your case, and the playbook Jeremy used to run as an insurance-defense attorney earlier in his career."
 };
 
 export const attorney = {
   "name": "Jeremy Rosenthal",
   "firm": "Law Firm of Jeremy Rosenthal",
-  "title": "Personal Injury Attorney & Podcast Host",
+  "title": "Founder, Trial Attorney",
   "bio": [
-    "Jeremy Rosenthal is a dedicated personal injury attorney serving accident victims throughout Denver and the surrounding Colorado communities. With extensive experience handling car accidents, truck collisions, motorcycle crashes, and other serious injury cases, Jeremy Rosenthal has built a reputation for aggressive advocacy and compassionate client service. Jeremy Rosenthal understands that accidents can turn lives upside down in an instant, and he is committed to helping injured individuals navigate the complex legal process while they focus on recovery.",
-    "Throughout his career, Jeremy Rosenthal has successfully represented clients against major insurance companies and corporate defendants, securing substantial compensation for medical expenses, lost wages, pain and suffering, and other damages. Jeremy Rosenthal takes a hands-on approach to every case, personally meeting with clients to understand their unique circumstances and developing customized legal strategies designed to achieve the best possible outcomes. His deep knowledge of Colorado personal injury law and familiarity with local courts in Denver give his clients a significant advantage.",
-    "Beyond his legal practice, Jeremy Rosenthal created the Denver Accident Law podcast to educate the community about their rights and the legal options available after an accident. Through this platform, Jeremy Rosenthal shares valuable insights, answers common questions, and demystifies the personal injury claims process for listeners across Colorado. When not advocating for clients or recording podcast episodes, Jeremy Rosenthal remains actively involved in the Denver legal community and stays current on evolving personal injury laws and precedents that affect accident victims."
+    "Jeremy Rosenthal is the founder of the Law Firm of Jeremy Rosenthal, a Denver personal injury practice serving people injured in car, truck, motorcycle, bicycle, pedestrian, and rideshare crashes across Denver and the Front Range. Jeremy has more than 20 years of experience handling Colorado injury cases. He clerked for a Colorado state court judge after law school, then spent the early part of his career defending insurance companies in Colorado courts before switching sides to represent injured people. That insurance-defense pedigree is the firm's central differentiator: Jeremy knows exactly how the other side evaluates claims, what tactics they run, and why they run them.",
+    "Today the Law Firm of Jeremy Rosenthal handles car accidents, truck accidents, motorcycle and bicycle crashes, pedestrian injuries, Uber and Lyft cases, dog and animal bites under Colorado's strict-liability statute (CRS 13-21-124), wrongful death, traumatic brain injuries, and general personal injury matters across Denver, Boulder, Aurora, Lakewood, Arvada, Littleton, Centennial, and the broader Front Range. The firm's promise is plain: put the client first, respond quickly, pursue maximum compensation. No fee unless you win.",
+    "Jeremy is the kind of trial lawyer who flew internationally to depose a CEO in a defective BBQ-grill case so he could put a face to the company that hurt his client. That same insistence on doing the work shows up on the podcast. Each episode of Denver Car Accident Attorneys takes one specific scenario the firm handles regularly under Colorado law and walks through it the way Jeremy would talk it through across a free-consultation desk - direct, honest, no legalese without an immediate translation. Outside the practice, Jeremy is a long-time supporter of big-cat rescue and conservation."
   ],
   "signature": "/images/signature.png",
   "photo": "/images/attorney.jpg"
 };
 
 export const contact = {
-  "address": "Denver, Colorado",
-  "phone": "(303) 555-0100",
-  "email": "info@jeremyrosenthal.esq",
-  "website": "https://www.lawfirmofjeremyrosenthal.com"
+  "address": "600 17th St #2803, Denver, CO 80202",
+  "phone": "(303) 825-2223",
+  "email": "info@lawfirmofjeremyrosenthal.com",
+  "website": "https://www.lawfirmofjeremyrosenthal.com/"
 };
 
 export const chapters = [
   {
     "number": 1,
-    "title": "Immediate Steps After a Denver Accident",
+    "title": "First 24 Hours After a Denver Crash",
     "active": true
   },
   {
     "number": 2,
-    "title": "Understanding Colorado's Comparative Negligence Law",
+    "title": "Modified Comparative Fault and the 50% Bar",
     "active": false
   },
   {
     "number": 3,
-    "title": "Dealing with Insurance Adjusters",
+    "title": "Recorded Statements and the Adjuster Playbook",
     "active": false
   },
   {
     "number": 4,
-    "title": "Documenting Your Injuries and Damages",
+    "title": "Colorado's Two-Year Statute of Limitations",
     "active": false
   },
   {
     "number": 5,
-    "title": "When to Hire a Personal Injury Attorney",
+    "title": "Free Consultation, No Fee Unless You Win",
     "active": false
   }
 ];
@@ -77,67 +77,67 @@ export const chapters = [
 export const faqGroups = [
   {
     "label": "About the Podcast",
-    "description": "Learn more about Denver Accident Law and what to expect from each episode",
+    "description": "Denver Car Accident Attorneys is hosted by Jeremy Rosenthal, founder of the Law Firm of Jeremy Rosenthal in Denver, Colorado.",
     "questions": [
       {
-        "question": "What topics does Denver Accident Law with Jeremy Rosenthal cover?",
+        "question": "What topics does the Denver Car Accident Attorneys podcast cover?",
         "level": "h2",
-        "answer": "The podcast covers a wide range of personal injury topics relevant to Denver residents, including car accidents, truck accidents, motorcycle collisions, rideshare incidents, bicycle accidents, dog bites, and pedestrian accidents. Jeremy Rosenthal breaks down complex legal concepts into practical advice that Colorado accident victims can use to protect their rights and maximize their recovery."
+        "answer": "Each episode walks through one specific Colorado scenario the firm handles regularly: car accidents on I-25 and I-70, truck accidents on the mountain corridor, motorcycle and bicycle crashes in Denver and Boulder, pedestrian and Uber/Lyft cases, dog bites under Colorado's strict-liability statute (CRS 13-21-124), wrongful death, and traumatic brain injuries. Jeremy explains the Colorado law that applies, what the insurance company is going to do, and what to expect under modified comparative fault and Colorado's two-year statute of limitations."
       },
       {
         "question": "How often are new episodes released?",
         "level": "h3",
-        "answer": "New episodes of Denver Accident Law are released weekly, providing consistent, timely information about personal injury law in Colorado. Each episode is designed to be digestible and actionable, typically running 20-30 minutes to respect your time while delivering maximum value."
+        "answer": "Denver Car Accident Attorneys is a weekly podcast with continuous, evergreen publishing. Full episodes run roughly 60-90 minutes for deep single-topic walkthroughs; shorter Extension episodes (20-30 minutes) cover narrower scenarios like a specific intersection, injury type, or insurance situation."
       },
       {
-        "question": "Who should listen to this podcast?",
+        "question": "Who is the show for?",
         "level": "h3",
-        "answer": "This podcast is valuable for anyone who has been injured in an accident in Denver or throughout Colorado, as well as those who want to understand their legal rights before an incident occurs. Family members of accident victims, insurance professionals, and anyone interested in personal injury law will find the content informative and accessible."
+        "answer": "The show is for regular people who just got in a car accident in Denver, Boulder, Aurora, Lakewood, Arvada, Littleton, Centennial, or anywhere along the Front Range and need straight answers about Colorado law - what their rights are, whether they need a lawyer, what the insurance company will do, and what deadlines apply. It is not a show for other lawyers and it is not legal advice for any specific case."
       },
       {
-        "question": "Can I submit questions for the podcast?",
+        "question": "Why Jeremy Rosenthal as the host?",
         "level": "h3",
-        "answer": "Yes, Jeremy Rosenthal welcomes questions from listeners and often addresses them in dedicated Q&A episodes. You can submit your personal injury law questions through the Law Firm of Jeremy Rosenthal website or social media channels, and your question may be featured in an upcoming episode."
+        "answer": "Jeremy has more than 20 years of Colorado personal injury experience. He clerked for a Colorado state court judge after law school, then defended insurance companies in Colorado courts before switching to represent injured people. That insurance-defense pedigree is the show's central differentiator: Jeremy doesn't just tell you what the insurance company might do, he tells you what he would have done when he was on their side."
       }
     ]
   },
   {
-    "label": "Legal Questions",
-    "description": "Common questions about personal injury cases in Denver and Colorado",
+    "label": "Colorado Law Questions",
+    "description": "Common questions about car accident and personal injury cases under Colorado law.",
     "questions": [
       {
         "question": "How long do I have to file a personal injury claim in Colorado?",
         "level": "h2",
-        "answer": "In Colorado, the statute of limitations for most personal injury claims is three years from the date of the accident. However, certain circumstances can shorten or extend this deadline, which is why Jeremy Rosenthal emphasizes the importance of consulting with an experienced Denver personal injury attorney as soon as possible after an accident to protect your rights."
+        "answer": "Colorado's statute of limitations for most car accident and personal injury claims is two years from the date of the accident. Some claims have shorter deadlines and some have different rules - government claims, for example, require a Colorado Governmental Immunity Act notice of claim within 182 days. The two-year window can run out faster than people expect, especially when injuries take weeks or months to fully develop, which is why Jeremy emphasizes calling a Denver personal injury attorney early."
+      },
+      {
+        "question": "How does Colorado's modified comparative fault rule work?",
+        "level": "h2",
+        "answer": "Colorado is a modified comparative fault state with a 50% bar. You can recover damages as long as you are less than 50% at fault for the accident. Your compensation is reduced by your percentage of fault - 20% on you means a 20% reduction. If you are 50% or more at fault under Colorado law, you recover nothing. That makes the fault assignment fight - the conversation between you, the insurance adjuster, and ultimately a Colorado jury - one of the most important parts of your case."
+      },
+      {
+        "question": "What is Colorado's dog-bite law?",
+        "level": "h3",
+        "answer": "Colorado has a strict-liability dog-bite statute (CRS 13-21-124) for serious bodily injury or death caused by a dog bite. Unlike many states with a 'one bite' rule, Colorado holds the dog owner liable for serious-bodily-injury bites regardless of whether the dog had bitten someone before. There are statutory exceptions - working police dogs, provocation, trespass - and the line between 'serious bodily injury' and 'lesser injury' matters for whether strict liability applies. This is one of the active growth areas of the firm's practice."
       },
       {
         "question": "What should I do immediately after a car accident in Denver?",
-        "level": "h2",
-        "answer": "After ensuring everyone's safety and calling 911, document the accident scene with photos, exchange information with other drivers, and seek medical attention even if you feel fine. Jeremy Rosenthal advises against discussing fault at the scene and recommends contacting a personal injury attorney before speaking with insurance adjusters, as early statements can significantly impact your claim."
-      },
-      {
-        "question": "How is fault determined in Colorado accident cases?",
         "level": "h3",
-        "answer": "Colorado follows a modified comparative negligence rule, meaning you can recover damages as long as you are less than 50% at fault for the accident. Your compensation will be reduced by your percentage of fault, making it crucial to have an experienced attorney like Jeremy Rosenthal who can effectively argue against unfair fault assignments by insurance companies."
-      },
-      {
-        "question": "What types of damages can I recover in a personal injury case?",
-        "level": "h3",
-        "answer": "In Colorado personal injury cases, you may recover economic damages like medical expenses and lost wages, as well as non-economic damages such as pain and suffering and emotional distress. In cases involving egregious conduct, punitive damages may also be available, and Jeremy Rosenthal thoroughly evaluates each case to ensure all applicable damages are pursued."
+        "answer": "After everyone is safe and 911 is called, document the scene with photos, exchange information with the other driver, and seek medical attention even if you feel okay - adrenaline hides injuries for hours or days. Do not give a recorded statement to the at-fault driver's insurance company. Do not post about the crash on social media. Call our office at (303) 825-2223 for a free consultation before you commit to anything that could cost you under Colorado's modified comparative fault rule."
       }
     ]
   }
 ];
 
 export const content = {
-  "heroTitle": "Denver Accident Law w. Jeremy Rosenthal",
-  "heroDescription": "Welcome to Denver Accident Law, the podcast where personal injury attorney Jeremy Rosenthal breaks down complex legal issues affecting accident victims across Colorado. Each episode delivers practical advice, legal insights, and answers to the questions that matter most when you've been injured in a car accident, truck collision, motorcycle crash, or other serious incident in the Denver metro area.",
-  "articleTitle": "Protecting Your Rights After an Accident in Denver",
+  "heroTitle": "Denver Car Accident Attorneys",
+  "heroDescription": "Straight answers about Colorado car accidents from the attorney who used to work the other side. Jeremy Rosenthal - founder of the Law Firm of Jeremy Rosenthal in Denver - spent the early part of his career defending insurance companies before switching to represent injured people. Each weekly episode walks through one specific Colorado scenario under Colorado law: rear-ended on I-25, hit by a truck on I-70, a bicycle crash on Speer Boulevard, a dog bite at a Cherry Creek dog park.",
+  "articleTitle": "Colorado Personal Injury, Explained Plainly",
   "articleParagraphs": [
-    "When an accident happens on Denver's busy streets or Colorado's mountain highways, knowing your legal rights can make the difference between a fair settlement and financial hardship. The Law Firm of Jeremy Rosenthal is dedicated to helping accident victims understand the legal process, navigate insurance claims, and pursue the compensation they deserve. Through this podcast, Jeremy Rosenthal shares the knowledge and experience gained from years of representing injured clients throughout the Denver area.",
-    "Colorado's personal injury laws contain unique provisions that can significantly impact your case, from the state's modified comparative negligence rule to specific statutes of limitations for different types of accidents. Jeremy Rosenthal created Denver Accident Law to demystify these legal concepts and provide listeners with actionable information they can use to protect themselves and their families. Whether you've been injured in a car accident on I-25, struck by a negligent driver in downtown Denver, or hurt in any other type of accident, this podcast offers valuable guidance for your situation."
+    "Colorado has unique personal injury laws that most national PI content ignores - modified comparative fault with a 50% bar, a two-year statute of limitations, specific rules around uninsured/underinsured motorist coverage, and a no-fault state for property damage but not for bodily injury. People in Denver, Boulder, and the Front Range who get in car accidents are searching for answers and finding content written by lawyers in California, Texas, or Florida that does not apply to their situation.",
+    "Every episode of Denver Car Accident Attorneys takes one specific scenario the Law Firm of Jeremy Rosenthal handles regularly - a rush-hour rear-end on I-25, a truck crash coming out of the I-70 mountain corridor, a Speer Boulevard bicycle crash, a Cherry Creek dog bite - and walks through it under Colorado law. What your rights are, what the insurance company is going to do, what deadlines you are up against, and what Jeremy has seen happen in 20+ years of handling these cases in Denver County courts."
   ],
-  "featuredQuote": "The decisions you make in the hours and days following an accident can have a lasting impact on your ability to recover compensation. My goal is to ensure every accident victim in Denver knows their rights and understands their options.",
+  "featuredQuote": "When I was on the other side defending insurance companies, here's exactly what we would have done in this situation - and that's why I tell my clients in Denver to call before they say anything to an adjuster.",
   "additionalParagraphs": []
 };
 
@@ -193,15 +193,15 @@ export const testimonials = [
 ];
 
 export const stats = {
-  "rating": 4.9,
-  "reviewCount": 200,
-  "satisfactionRate": 99,
-  "satisfactionLabel": "Client Success Rate",
-  "satisfactionVerbalization": "The Law Firm of Jeremy Rosenthal maintains a 99% client satisfaction rate, reflecting Jeremy Rosenthal's commitment to personalized service and aggressive advocacy for every accident victim in Denver and throughout Colorado.",
-  "casesHandled": 100,
-  "casesLabel": "$50M+ Recovered",
-  "casesVerbalization": "Jeremy Rosenthal has successfully recovered over $50 million for personal injury clients throughout Denver and Colorado, securing maximum compensation for car accidents, truck accidents, motorcycle collisions, and other serious injury cases.",
-  "ratingVerbalization": "With a 4.9-star rating across more than 200 client reviews, Jeremy Rosenthal has earned a reputation as one of Denver's most trusted personal injury attorneys, consistently praised for his expertise, communication, and results."
+  "rating": 0,
+  "reviewCount": 0,
+  "satisfactionRate": 0,
+  "satisfactionLabel": "Years of Experience",
+  "satisfactionVerbalization": "Jeremy Rosenthal has more than 20 years of experience handling Colorado personal injury cases, including a career arc that started with a Colorado state court clerkship, moved through insurance-defense work, and now focuses entirely on representing injured people in Denver and along the Front Range.",
+  "casesHandled": 0,
+  "casesLabel": "Insurance Defense Insider",
+  "casesVerbalization": "Jeremy spent the early part of his career defending insurance companies in Colorado courts before switching sides to represent injured people. That insurance-defense pedigree is the firm's central client-facing differentiator: Jeremy knows how the other side evaluates claims and uses that inside knowledge for his clients.",
+  "ratingVerbalization": "The Law Firm of Jeremy Rosenthal handles personal injury cases on a contingency basis - no fee unless you win - and serves Denver, Boulder, Aurora, Lakewood, Arvada, Littleton, Centennial, and the broader Front Range under Colorado law."
 };
 
 export const navigation = {
@@ -216,17 +216,22 @@ export const navigation = {
       "href": "#about"
     },
     {
+      "name": "Visit Firm",
+      "href": "https://www.lawfirmofjeremyrosenthal.com/",
+      "external": true
+    },
+    {
       "name": "Contact",
       "href": "#contact"
     }
   ],
-  "ctaText": "Subscribe",
-  "ctaHref": "#subscribe"
+  "ctaText": "Free Consultation",
+  "ctaHref": "#contact"
 };
 
 export const footer = {
   "logo": "Law Firm of Jeremy Rosenthal",
-  "description": "Denver Accident Law is a podcast dedicated to educating Colorado accident victims about their legal rights and options. Hosted by personal injury attorney Jeremy Rosenthal, each episode provides practical guidance for navigating the claims process and securing fair compensation after a car accident, truck collision, or other serious injury.",
+  "description": "Denver Car Accident Attorneys is the official podcast of the Law Firm of Jeremy Rosenthal, a Denver personal injury practice serving people injured in car, truck, motorcycle, bicycle, pedestrian, rideshare, and dog-bite cases across Denver, Boulder, Aurora, and the Colorado Front Range. Hosted by Jeremy Rosenthal - a 20-year trial attorney who started his career defending insurance companies before switching to represent injured people - each weekly episode walks through one specific Colorado scenario under Colorado law.",
   "copyright": "Law Firm of Jeremy Rosenthal",
   "socialLinks": {
     "twitter": "#",
@@ -237,52 +242,35 @@ export const footer = {
   }
 };
 
-export const awards = [
-  {
-    "name": "Super Lawyers Rising Stars",
-    "description": "Recognized among Colorado's top young attorneys for excellence in personal injury law"
-  },
-  {
-    "name": "Avvo Clients' Choice Award",
-    "description": "Honored for outstanding client service and consistent 5-star reviews from injury victims"
-  },
-  {
-    "name": "National Trial Lawyers Top 40 Under 40",
-    "description": "Selected as one of the nation's leading trial attorneys under age 40"
-  },
-  {
-    "name": "American Institute of Legal Counsel 10 Best",
-    "description": "Named among the 10 Best Personal Injury Attorneys in Colorado for client satisfaction"
-  },
-  {
-    "name": "Colorado Bar Association Member in Good Standing",
-    "description": "Active member maintaining the highest ethical standards in legal practice"
-  }
-];
+// Awards intentionally left empty - the Bible (zip_195630/Podcast Strategy/) does
+// not substantiate specific honors or recognitions for Jeremy Rosenthal, and
+// Colorado Rules of Professional Conduct 7.1 requires substantiation for any
+// claim that creates an unjustified expectation. Add only when verified.
+export const awards: { name: string; description: string }[] = [];
 
 export const about = {
-  "title": "About Denver Accident Law with Jeremy Rosenthal",
-  "description": "Denver Accident Law is a podcast dedicated to empowering Colorado accident victims with the knowledge they need to protect their rights and secure fair compensation. Hosted by Jeremy Rosenthal, a leading Denver personal injury attorney, each episode breaks down complex legal topics into practical, actionable advice. Whether you've been injured in a car accident on I-25, hit by a negligent truck driver, or hurt in any type of accident in Denver or throughout Colorado, this podcast provides the insights you need to navigate the legal system with confidence. Jeremy Rosenthal draws on years of experience representing injury victims to deliver clear, honest information that puts clients first.",
+  "title": "About Denver Car Accident Attorneys with Jeremy Rosenthal",
+  "description": "Denver Car Accident Attorneys is the weekly podcast of the Law Firm of Jeremy Rosenthal - Colorado-specific personal injury education built for Denver and the Front Range, delivered by a trial attorney who used to defend insurance companies and now uses that inside knowledge to fight for injured people. Each episode takes one scenario the firm handles regularly - rear-ended on I-25 during rush hour, hit by a truck on I-70 coming out of the mountains, a bicycle crash on Speer Boulevard, a dog bite at a Cherry Creek dog park - and walks through it under Colorado law. What your rights are, what the insurance company is going to do, what deadlines you are up against under Colorado's two-year statute of limitations and modified comparative fault rules, and what Jeremy has seen happen in 20+ years handling these cases in Denver County courts. The show is for regular people who just got in an accident in Denver, Boulder, Aurora, or anywhere along the Front Range, not for other lawyers.",
   "highlights": [
-    "Weekly episodes covering all aspects of personal injury law in Colorado",
-    "Expert analysis of car accidents, truck accidents, motorcycle collisions, and more",
-    "Real-world case examples and practical tips for accident victims",
-    "Guest appearances from medical experts, accident reconstruction specialists, and other legal professionals",
-    "Q&A episodes addressing listener questions about Colorado injury law",
-    "Updates on changing laws and regulations affecting Denver accident victims"
+    "Weekly Colorado-specific personal injury episodes - no generic California or Texas content",
+    "Rear-end, intersection, I-25, and I-70 mountain corridor car accident scenarios under Colorado law",
+    "Truck, motorcycle, bicycle, pedestrian, Uber/Lyft, and dog-bite cases under CRS 13-21-124",
+    "Insurance defense insider perspective - Jeremy explains what the other side is doing and why",
+    "Plain-language walkthroughs of Colorado modified comparative fault, the 50% bar, and UM/UIM coverage",
+    "Real anonymized case outcomes from Denver County courts with honest assessments of expectations"
   ],
   "showReadMore": false
 };
 
 export const subscribeCTA = {
-  "title": "Never Miss an Episode",
-  "description": "Subscribe to Denver Accident Law with Jeremy Rosenthal and get expert personal injury legal advice delivered directly to your favorite podcast app. Each week, Jeremy Rosenthal shares insights that could make the difference in your accident case, helping you avoid costly mistakes and understand your rights under Colorado law. Whether you're currently dealing with an injury claim or simply want to be informed, subscribing ensures you stay up-to-date with the latest developments in Denver personal injury law.",
+  "title": "New Colorado Car Accident Episode Every Week",
+  "description": "Subscribe to Denver Car Accident Attorneys with Jeremy Rosenthal on Spotify, Apple Podcasts, or YouTube. Each week, one specific Colorado car accident, motorcycle, bicycle, dog-bite, or wrongful death scenario - walked through under Colorado law by an attorney who used to defend insurance companies. If you live in Denver, Boulder, Aurora, Lakewood, or anywhere along the Front Range and you ever drive an interstate or a city street, this is the show worth following before something happens.",
   "highlights": [
-    "Weekly episodes with actionable legal advice for Colorado accident victims",
-    "Expert insights on maximizing your personal injury settlement",
-    "Updates on Colorado traffic laws and insurance regulations",
-    "Tips for dealing with insurance adjusters and protecting your claim",
-    "Exclusive content on emerging trends in personal injury law"
+    "Colorado-specific legal information - statutes, deadlines, comparative fault, dog-bite strict liability under CRS 13-21-124",
+    "The insurance defense insider perspective on what the other side is doing and why",
+    "Real anonymized case outcomes from Denver County courts",
+    "Practical first-24-hours guidance you can act on tomorrow morning",
+    "A new episode every week, evergreen and continuous"
   ]
 };
 
@@ -290,56 +278,55 @@ export const episodes = [
   {
     "id": 1,
     "number": 1,
-    "title": "What to Do After a Car Accident in Denver: Your First Steps Matter",
+    "title": "Rear-Ended on I-25: Your First 24 Hours Under Colorado Law",
     "subtitle": "Episode 1 \u2022 Law Firm of Jeremy Rosenthal",
-    "description": "In this inaugural episode, Jeremy Rosenthal walks through the critical first steps every Denver driver should take after a car accident. From documenting the scene to dealing with insurance companies, learn how your actions in the first 24 hours can significantly impact your personal injury claim. Jeremy shares real examples from his practice and explains common mistakes that can reduce your compensation.",
-    "duration": "28 min",
+    "description": "Jeremy Rosenthal walks through what to do in the first 24 hours after a rear-end crash on I-25 or any major Denver road. Scene documentation, who to call, what to say (and not say) to the at-fault driver's insurance, when to see a doctor, and how Colorado's two-year statute of limitations and modified comparative fault rules shape every decision you make in the first day.",
+    "duration": "45 min",
     "date": "January 15, 2025",
     "category": "Car Accidents",
     "featured": true,
     "topic": "Post-Accident Protocol",
     "concepts": [
-      "Accident scene documentation",
-      "Insurance adjuster communication",
-      "Medical treatment timing",
-      "Evidence preservation"
+      "Colorado two-year statute of limitations",
+      "Modified comparative fault and the 50% bar",
+      "Recorded statements with insurance adjusters",
+      "Medical treatment timing and gaps in care"
     ],
     "chapters": [
-      "Introduction: Why the First 24 Hours Matter",
-      "Step 1: Ensuring Safety and Calling 911",
-      "Step 2: Documenting the Accident Scene",
-      "Step 3: Seeking Immediate Medical Attention",
-      "Step 4: Dealing with Insurance Companies",
-      "Common Mistakes That Hurt Your Claim",
-      "When to Contact a Denver Personal Injury Attorney"
+      "Cold Open: What the Insurance Company Already Did Today",
+      "The Scene: What to Photograph, What to Write Down",
+      "Talking to Police - and What Goes in the Report",
+      "When to See a Doctor (Even If You Feel Fine)",
+      "The First Insurance Call - and What Recorded Statements Cost You",
+      "Colorado's Two-Year Statute of Limitations",
+      "Lightning Round + When to Call Our Office"
     ],
     "logo": "/images/logo.svg"
   },
   {
     "id": 2,
     "number": 2,
-    "title": "Understanding Colorado's Comparative Negligence Law",
+    "title": "Colorado's Modified Comparative Fault Rule and the 50% Bar",
     "subtitle": "Episode 2 \u2022 Law Firm of Jeremy Rosenthal",
-    "description": "Colorado's modified comparative negligence rule can be confusing for accident victims. Jeremy Rosenthal explains how fault is determined in Denver personal injury cases and what happens when you share some responsibility for an accident. This episode includes real case examples showing how even 10-20% fault can impact your settlement and strategies for fighting unfair fault assignments by insurance companies.",
-    "duration": "25 min",
+    "description": "Colorado is a modified comparative fault state with a 50% bar - if you are 50% or more at fault, you recover nothing. Jeremy explains how Colorado courts and adjusters assign fault in Denver-area car, motorcycle, and bicycle cases, why even 20% on you reduces your recovery, and the insurance-defense playbook Jeremy used to use to push that fault percentage up.",
+    "duration": "42 min",
     "date": "January 22, 2025",
     "category": "Personal Injury",
     "featured": false,
-    "topic": "Colorado Negligence Law",
+    "topic": "Colorado Comparative Fault",
     "concepts": [
-      "Modified comparative negligence",
-      "Fault determination process",
-      "Settlement reduction calculations",
-      "Fighting insurance fault claims"
+      "Modified comparative fault under Colorado law",
+      "The 50% bar and how it differs from pure comparative",
+      "Insurance-defense fault assignment tactics",
+      "Bicycle, motorcycle, and pedestrian fault disputes"
     ],
     "chapters": [
-      "Introduction to Comparative Negligence",
-      "How Colorado's 50% Rule Works",
-      "Real Case Examples from Denver Courts",
-      "How Insurance Companies Assign Fault",
-      "Strategies for Minimizing Your Fault Percentage",
-      "When Fault Disputes Go to Trial",
-      "Protecting Your Rights with Legal Representation"
+      "Cold Open: The 51% Conversation",
+      "Modified vs Pure Comparative - Why It Matters in Colorado",
+      "How Adjusters Assign Fault in Denver Cases",
+      "Real Scenarios: Speer Boulevard, Broadway, I-70",
+      "When You Were Partially at Fault and Should Still Call",
+      "Lightning Round + Free Consultation Reminder"
     ],
     "logo": "/images/logo.svg"
   }
@@ -348,39 +335,47 @@ export const episodes = [
 export const podcastTeam = [
   {
     "name": "Jeremy Rosenthal",
-    "role": "Host & Personal Injury Attorney",
+    "role": "Founder, Trial Attorney & Co-Host",
     "photo": "/images/team-member.jpg",
     "slug": "jeremy-rosenthal",
-    "bio": "Jeremy Rosenthal is a Denver personal injury attorney dedicated to helping Colorado accident victims secure the compensation they deserve. With years of experience handling car accidents, truck accidents, motorcycle collisions, and other serious injury cases, Jeremy Rosenthal brings practical legal expertise and genuine compassion to every episode of Denver Accident Law.",
-    "episodes": "Host of all episodes"
+    "bio": "Jeremy Rosenthal is the founder of the Law Firm of Jeremy Rosenthal in Denver. 20+ years of Colorado personal injury experience, including a state court clerkship and an early-career stint defending insurance companies before switching to represent injured people. The insurance-defense pedigree is the show's central differentiator.",
+    "episodes": "Co-host of all episodes"
+  },
+  {
+    "name": "Abby Arnold",
+    "role": "Interviewer & Co-Host",
+    "photo": "/images/team-member.jpg",
+    "slug": "abby-arnold",
+    "bio": "Abby Arnold leads each interview from the audience's seat - she frames every episode around the question a real Denver-area accident victim would actually ask, and pushes Jeremy off legalese and onto plain Colorado-specific answers.",
+    "episodes": "Interviewer on all episodes"
   }
 ];
 
 export const topicalEntryGrid = {
-  "title": "Explore Personal Injury Topics",
+  "title": "Explore Colorado Personal Injury Topics",
   "tabs": [
     {
       "label": "Car Accidents",
       "links": [
         {
-          "title": "Rear-End Collisions in Denver",
-          "description": "Learn about liability in rear-end accidents and how to prove the other driver's fault under Colorado law.",
-          "href": "#rear-end-collisions"
+          "title": "Rear-Ended on I-25",
+          "description": "Liability and the insurance-defense playbook in rear-end crashes during the Denver morning crawl on I-25 under Colorado's modified comparative fault rule.",
+          "href": "#rear-end-i25"
         },
         {
-          "title": "Intersection Accidents on Denver Streets",
-          "description": "Understanding right-of-way violations and proving fault in complex intersection crashes throughout Denver.",
-          "href": "#intersection-accidents"
+          "title": "Intersection Crashes on Colfax, Speer, Broadway",
+          "description": "Right-of-way violations and proving fault in Denver intersection crashes when both drivers blame each other.",
+          "href": "#denver-intersections"
         },
         {
-          "title": "Highway Accidents on I-25 and I-70",
-          "description": "Special considerations for high-speed highway accidents and multi-vehicle pileups on Colorado's major interstates.",
-          "href": "#highway-accidents"
+          "title": "I-70 Mountain Corridor Accidents",
+          "description": "Mountain-corridor cases coming out of the I-70 ski traffic - weather, fatigue, commercial trucks, and multi-vehicle Colorado scenarios.",
+          "href": "#i70-mountain-corridor"
         },
         {
-          "title": "Distracted Driving Accidents",
-          "description": "How to prove distracted driving and maximize compensation when another driver's negligence causes your injuries.",
-          "href": "#distracted-driving"
+          "title": "Uninsured / Underinsured Motorist Claims",
+          "description": "How UM/UIM coverage works in Colorado when the at-fault driver doesn't have enough insurance to cover your injuries.",
+          "href": "#colorado-um-uim"
         }
       ]
     },
@@ -388,190 +383,168 @@ export const topicalEntryGrid = {
       "label": "Truck Accidents",
       "links": [
         {
-          "title": "Commercial Truck Accident Liability",
-          "description": "Understanding who can be held responsible in truck accidents, from drivers to trucking companies and manufacturers.",
-          "href": "#truck-liability"
+          "title": "Commercial Truck Liability in Colorado",
+          "description": "Who can be held responsible in a Colorado truck case - driver, motor carrier, broker, shipper, manufacturer.",
+          "href": "#truck-liability-colorado"
         },
         {
-          "title": "Federal Trucking Regulations",
-          "description": "How violations of FMCSA regulations strengthen your truck accident case and increase settlement value.",
-          "href": "#trucking-regulations"
+          "title": "FMCSA Regulations and Hours-of-Service",
+          "description": "How federal trucking regulation violations - hours-of-service, logbooks, drug screens - prove negligence in Colorado truck cases.",
+          "href": "#fmcsa-colorado"
         },
         {
-          "title": "Truck Accident Investigations",
-          "description": "The importance of black box data, logbooks, and other evidence in building a strong truck accident claim.",
-          "href": "#truck-investigations"
+          "title": "I-70 and I-25 Truck Cases",
+          "description": "Specific Colorado scenarios: a runaway truck on the I-70 mountain corridor, an I-25 rear-end pileup, a downtown delivery crash.",
+          "href": "#colorado-truck-corridors"
         },
         {
-          "title": "Catastrophic Truck Accident Injuries",
-          "description": "Recovering maximum compensation for severe injuries caused by large commercial vehicle collisions in Colorado.",
-          "href": "#catastrophic-truck-injuries"
+          "title": "Catastrophic Truck Injuries and Wrongful Death",
+          "description": "Traumatic brain injury, spinal cord, and wrongful death cases involving commercial trucks under Colorado law.",
+          "href": "#catastrophic-truck-cases"
         }
       ]
     },
     {
-      "label": "Motorcycle Accidents",
+      "label": "Motorcycle & Bicycle",
       "links": [
         {
-          "title": "Motorcycle Bias in Accident Claims",
-          "description": "Overcoming unfair stereotypes and bias against motorcyclists when pursuing injury compensation in Denver.",
-          "href": "#motorcycle-bias"
+          "title": "Front Range Motorcycle Cases",
+          "description": "Motorcycle crashes from Denver to Boulder to the Front Range and the unique fault disputes riders face under Colorado law.",
+          "href": "#front-range-motorcycle"
         },
         {
-          "title": "Lane Splitting and Colorado Law",
-          "description": "Understanding Colorado's stance on lane splitting and how it affects your motorcycle accident claim.",
-          "href": "#lane-splitting"
+          "title": "Bicycle Crashes on Speer Boulevard and Cherry Creek",
+          "description": "Right-of-way, dooring, and visibility cases involving cyclists in Denver and Boulder - and Colorado-specific bike statutes.",
+          "href": "#denver-bicycle-cases"
         },
         {
-          "title": "Serious Motorcycle Injury Cases",
-          "description": "Pursuing full compensation for road rash, fractures, and traumatic injuries common in motorcycle crashes.",
-          "href": "#motorcycle-injuries"
+          "title": "UM/UIM for Riders and Cyclists",
+          "description": "Why UM/UIM coverage is the most important policy a Colorado motorcyclist or cyclist can carry.",
+          "href": "#rider-um-uim"
         },
         {
-          "title": "Uninsured Motorist Coverage for Riders",
-          "description": "Why UM/UIM coverage is critical for Colorado motorcyclists and how to maximize these benefits after an accident.",
-          "href": "#motorcycle-insurance"
+          "title": "Helmet Law and Comparative Fault",
+          "description": "Colorado's adult-helmet rule (or lack thereof) and how helmet status interacts with the modified comparative fault rule.",
+          "href": "#colorado-helmet-comparative-fault"
         }
       ]
     },
     {
-      "label": "Insurance Claims",
+      "label": "Dog Bites & Animal",
       "links": [
         {
-          "title": "Dealing with Insurance Adjusters",
-          "description": "What to say (and not say) to insurance adjusters to protect your claim and avoid settlement lowball tactics.",
-          "href": "#insurance-adjusters"
+          "title": "Colorado Strict Liability - CRS 13-21-124",
+          "description": "How Colorado's strict-liability dog-bite statute works for serious bodily injury cases and where the line is drawn.",
+          "href": "#crs-13-21-124"
         },
         {
-          "title": "Understanding Colorado Insurance Requirements",
-          "description": "Minimum coverage limits in Colorado and what happens when the at-fault driver lacks adequate insurance.",
-          "href": "#colorado-insurance"
+          "title": "Cherry Creek and Denver Park Bites",
+          "description": "Dog bites at off-leash parks, neighbor yards, and city sidewalks - and what evidence matters in a Colorado claim.",
+          "href": "#denver-park-dog-bites"
         },
         {
-          "title": "Bad Faith Insurance Practices",
-          "description": "Recognizing when insurance companies act in bad faith and your legal options for fighting unfair claim denials.",
-          "href": "#bad-faith-insurance"
+          "title": "Statutory Exceptions and Provocation Defense",
+          "description": "When the strict-liability statute does not apply - working dogs, provocation, trespass - and how insurance carriers use those exceptions.",
+          "href": "#colorado-dog-bite-exceptions"
         },
         {
-          "title": "Maximizing Your Settlement Value",
-          "description": "Strategies for documenting damages and negotiating with insurance companies to secure fair compensation.",
-          "href": "#settlement-value"
+          "title": "Dog Bites Involving Children",
+          "description": "Cases where the bite victim is a child, including Colorado's tolling rule and parental consent issues.",
+          "href": "#child-dog-bite-colorado"
         }
       ]
     },
     {
-      "label": "Legal Process",
+      "label": "Insurance & Process",
       "links": [
         {
-          "title": "Filing a Personal Injury Lawsuit in Colorado",
-          "description": "Step-by-step guide to the litigation process from filing through trial in Denver and Colorado courts.",
-          "href": "#filing-lawsuit"
+          "title": "Dealing with Insurance Adjusters in Colorado",
+          "description": "What to say (and not say) to the at-fault insurance company. The recorded-statement trap. The inside view from a former insurance-defense attorney.",
+          "href": "#colorado-insurance-adjusters"
         },
         {
-          "title": "Settlement vs. Trial: Making the Right Choice",
-          "description": "Factors to consider when deciding whether to accept a settlement offer or take your case to trial.",
-          "href": "#settlement-vs-trial"
+          "title": "Modified Comparative Fault and the 50% Bar",
+          "description": "Colorado's 50%-bar rule, why even 20% fault on you shrinks your recovery, and how adjusters push fault percentages up.",
+          "href": "#colorado-50-percent-bar"
         },
         {
-          "title": "Working with Expert Witnesses",
-          "description": "How medical experts, accident reconstructionists, and economists strengthen your personal injury case.",
-          "href": "#expert-witnesses"
+          "title": "Two-Year Statute of Limitations",
+          "description": "Colorado's two-year statute of limitations for car-accident and personal injury claims - and the special deadlines that run shorter.",
+          "href": "#colorado-2-year-sol"
         },
         {
-          "title": "Contingency Fee Arrangements Explained",
-          "description": "Understanding how personal injury attorneys get paid and why contingency fees benefit accident victims.",
-          "href": "#contingency-fees"
+          "title": "Free Consultation, No Fee Unless You Win",
+          "description": "How the Law Firm of Jeremy Rosenthal handles every Colorado personal injury matter on contingency, and what 'no fee unless you win' actually means.",
+          "href": "#contingency-colorado"
         }
       ]
     }
   ]
 };
 
-export const trustBadges = [
-  {
-    "id": 1,
-    "title": "Super Lawyers Rising Stars",
-    "tooltip": "Jeremy Rosenthal has been recognized by Super Lawyers as a Rising Star, an honor reserved for the top 2.5% of young attorneys in Colorado who demonstrate excellence in personal injury law through peer recognition and professional achievement.",
-    "badge": "/badges/placeholder.avif",
-    "href": "#super-lawyers"
-  },
-  {
-    "id": 2,
-    "title": "Avvo Clients' Choice Award",
-    "tooltip": "The Avvo Clients' Choice Award recognizes attorneys who have received consistently outstanding client reviews. Jeremy Rosenthal earned this distinction based on verified 5-star reviews from satisfied personal injury clients throughout Denver.",
-    "badge": "/badges/placeholder.avif",
-    "href": "#avvo-award"
-  },
-  {
-    "id": 3,
-    "title": "National Trial Lawyers Top 40 Under 40",
-    "tooltip": "This prestigious recognition from the National Trial Lawyers identifies Jeremy Rosenthal as one of the nation's top trial attorneys under age 40, based on superior qualifications, trial results, and leadership in personal injury advocacy.",
-    "badge": "/badges/placeholder.avif",
-    "href": "#trial-lawyers"
-  },
-  {
-    "id": 4,
-    "title": "American Institute of Legal Counsel 10 Best",
-    "tooltip": "The American Institute of Legal Counsel named Jeremy Rosenthal among the 10 Best Personal Injury Attorneys in Colorado based on client satisfaction, case results, and commitment to ethical legal practice in accident cases.",
-    "badge": "/badges/placeholder.avif",
-    "href": "#ailc-award"
-  },
-  {
-    "id": 5,
-    "title": "Colorado Bar Association Member",
-    "tooltip": "Jeremy Rosenthal is a member in good standing of the Colorado Bar Association, maintaining the highest ethical standards and staying current with continuing legal education in personal injury and accident law.",
-    "badge": "/badges/placeholder.avif",
-    "href": "#colorado-bar"
-  }
-];
+// Trust badges intentionally left empty - the Bible does not list specific
+// awards or memberships for Jeremy Rosenthal, and CO RPC 7.1 requires
+// substantiation. Confirm with the firm and re-populate before launch.
+export const trustBadges: { id: number; title: string; tooltip: string; badge: string; href: string }[] = [];
 
-export const chaptersDescription = "This episode covers critical topics including immediate post-accident actions, Colorado negligence laws, insurance negotiations, evidence preservation, and knowing when legal representation becomes essential."
+export const chaptersDescription = "Each episode walks through one specific Colorado scenario - the first 24 hours after a crash, modified comparative fault, the two-year statute of limitations, recorded statements, UM/UIM coverage, and the insurance-defense playbook from someone who used to run it - so listeners in Denver and along the Front Range know what to do tomorrow morning."
 
-export const reviewsInstruction = "Client testimonials are from verified Google reviews and past clients of the Law Firm of Jeremy Rosenthal who have provided permission to share their experiences."
+export const reviewsInstruction = "Any client testimonials shown on this site reflect the individual experience of the client. Past results do not guarantee future outcomes, and each case is unique under Colorado law and must be evaluated on its own merits."
 
 export const episodeTopics = [
   "All",
   "Car Accidents",
   "Truck Accidents",
   "Motorcycle Accidents",
-  "Personal Injury",
-  "Colorado Laws",
-  "Insurance Claims"
+  "Bicycle & Pedestrian",
+  "Dog Bites",
+  "Colorado Law",
+  "Insurance Claims",
+  "Wrongful Death"
 ];
 
 export const episodeLocations = [
   "All",
-  "Colorado",
   "Denver",
+  "Boulder",
   "Aurora",
   "Lakewood",
-  "Boulder"
+  "Arvada",
+  "Littleton",
+  "Centennial",
+  "Front Range",
+  "I-25 Corridor",
+  "I-70 Corridor",
+  "Colorado"
 ];
 
 export const formConfig = {
   webhookUrl: process.env.NEXT_PUBLIC_FORM_WEBHOOK_URL || "",
-  notifyEmails: process.env.NEXT_PUBLIC_FORM_NOTIFY_EMAILS || "info@jeremyrosenthal.esq",
+  notifyEmails: process.env.NEXT_PUBLIC_FORM_NOTIFY_EMAILS || "info@lawfirmofjeremyrosenthal.com",
   fields: [
     { name: "name", label: "NAME", type: "text" as const, placeholder: "Enter Your Name", required: true, halfWidth: true },
     { name: "email", label: "EMAIL", type: "email" as const, placeholder: "Enter Your Email", required: true, halfWidth: true },
     { name: "phone", label: "PHONE", type: "tel" as const, placeholder: "Enter Your Phone Number", required: false, halfWidth: true },
     { name: "caseType", label: "CASE TYPE", type: "select" as const, placeholder: "Select Case Type", required: false, halfWidth: true, options: [
       "Car Accident",
-      "Wrongful Death",
       "Truck Accident",
       "Motorcycle Accident",
+      "Bicycle Accident",
       "Pedestrian Accident",
-      "Premises Liability",
-      "Other",
+      "Uber/Lyft Accident",
+      "Dog Bite / Animal Bite",
+      "Wrongful Death",
+      "Traumatic Brain Injury",
+      "Other Personal Injury",
     ]},
     { name: "message", label: "MESSAGE", type: "textarea" as const, placeholder: "Briefly describe your situation", required: true, halfWidth: false },
   ],
-  heading: "Get in touch now!",
+  heading: "Free Colorado Case Consultation",
   submitText: "Send Message",
-  successMessage: "Thank you! Your message has been sent. We'll get back to you within 4 hours during business days.",
-  errorMessage: "Something went wrong. Please call us directly at (303) 555-0100.",
+  successMessage: "Thank you. Your message has been sent to the Law Firm of Jeremy Rosenthal. We will get back to you as quickly as possible.",
+  errorMessage: "Something went wrong. Please call us directly at (303) 825-2223.",
   source: "podcast-website",
-  campaign: "the-you-interview",
+  campaign: "denver-car-accident-attorneys-podcast",
 }
 
 export const authorProfiles: Record<string, {
@@ -594,22 +567,73 @@ export const authorProfiles: Record<string, {
   "jeremy-rosenthal": {
     name: "Jeremy Rosenthal",
     slug: "jeremy-rosenthal",
-    title: "Personal Injury Attorney & Podcast Host",
-    role: "Host & Lead Attorney",
+    title: "Founder, Trial Attorney",
+    role: "Co-Host & Lead Attorney",
     photo: "/images/attorney.jpg",
     barNumber: "",
     barUrl: "",
     education: [],
-    admissions: [],
+    admissions: [
+      { jurisdiction: "Colorado", year: "" },
+      { jurisdiction: "New York", year: "" },
+    ],
     awards: [],
-    practiceAreas: [],
+    practiceAreas: [
+      "Car Accidents",
+      "Truck Accidents",
+      "Motorcycle Accidents",
+      "Bicycle Accidents",
+      "Pedestrian Accidents",
+      "Uber / Lyft Accidents",
+      "Dog Bites and Animal Bites",
+      "Wrongful Death",
+      "Traumatic Brain Injuries",
+      "General Personal Injury",
+    ],
     bio: [
-      "Jeremy Rosenthal is a dedicated personal injury attorney serving accident victims throughout Denver and the surrounding Colorado communities. With extensive experience handling car accidents, truck collisions, motorcycle crashes, and other serious injury cases, Jeremy Rosenthal has built a reputation for aggressive advocacy and compassionate client service. Jeremy Rosenthal understands that accidents can turn lives upside down in an instant, and he is committed to helping injured individuals navigate the complex legal process while they focus on recovery.",
-      "Throughout his career, Jeremy Rosenthal has successfully represented clients against major insurance companies and corporate defendants, securing substantial compensation for medical expenses, lost wages, pain and suffering, and other damages. Jeremy Rosenthal takes a hands-on approach to every case, personally meeting with clients to understand their unique circumstances and developing customized legal strategies designed to achieve the best possible outcomes. His deep knowledge of Colorado personal injury law and familiarity with local courts in Denver give his clients a significant advantage.",
-      "Beyond his legal practice, Jeremy Rosenthal created the Denver Accident Law podcast to educate the community about their rights and the legal options available after an accident. Through this platform, Jeremy Rosenthal shares valuable insights, answers common questions, and demystifies the personal injury claims process for listeners across Colorado. When not advocating for clients or recording podcast episodes, Jeremy Rosenthal remains actively involved in the Denver legal community and stays current on evolving personal injury laws and precedents that affect accident victims."
-],
+      "Jeremy Rosenthal is the founder of the Law Firm of Jeremy Rosenthal, a Denver personal injury practice serving people injured in car, truck, motorcycle, bicycle, pedestrian, and rideshare crashes across Denver and the Front Range. Jeremy has more than 20 years of experience handling Colorado injury cases. He clerked for a Colorado state court judge after law school, then spent the early part of his career defending insurance companies in Colorado courts before switching sides to represent injured people. That insurance-defense pedigree is the firm's central differentiator: Jeremy knows exactly how the other side evaluates claims, what tactics they run, and why they run them.",
+      "Today the Law Firm of Jeremy Rosenthal handles car accidents, truck accidents, motorcycle and bicycle crashes, pedestrian injuries, Uber and Lyft cases, dog and animal bites under Colorado's strict-liability statute (CRS 13-21-124), wrongful death, traumatic brain injuries, and general personal injury matters across Denver, Boulder, Aurora, Lakewood, Arvada, Littleton, Centennial, and the broader Front Range. The firm's promise is plain: put the client first, respond quickly, pursue maximum compensation. No fee unless you win.",
+      "Jeremy is the kind of trial lawyer who flew internationally to depose a CEO in a defective BBQ-grill case so he could put a face to the company that hurt his client. That same insistence on doing the work shows up on the podcast - direct, honest, no legalese without an immediate translation. Outside the practice, Jeremy is a long-time supporter of big-cat rescue and conservation."
+    ],
     memberships: [],
     socialLinks: [],
-    episodeAppearances: "Host of all episodes",
+    episodeAppearances: "Co-host of all episodes",
   },
+}
+
+export const compliance = {
+  jurisdiction: "Colorado",
+  firm: "Law Firm of Jeremy Rosenthal",
+  responsibleAttorneys: [
+    {
+      name: "Jeremy Rosenthal",
+      barNumber: "",
+    },
+  ],
+  disclaimers: [
+    {
+      kind: "attorney_advertising",
+      text: "This is an advertisement for legal services under the Colorado Rules of Professional Conduct 7.1-7.4. The information on this website and in the Denver Car Accident Attorneys podcast is for general informational purposes only and does not constitute legal advice on any specific matter."
+    },
+    {
+      kind: "no_ac_relationship",
+      text: "Viewing this website, listening to or watching the podcast, or communicating with the Law Firm of Jeremy Rosenthal does not create an attorney-client relationship. No attorney-client relationship exists unless and until a written fee agreement has been signed by both the client and a Law Firm of Jeremy Rosenthal attorney."
+    },
+    {
+      kind: "prior_results",
+      text: "Past results do not guarantee, warrant, or predict future outcomes in any case. Each case is unique and must be evaluated on its own merits under Colorado law. The outcome of any prior case described on this site or in the podcast does not predict a similar result in your case."
+    },
+    {
+      kind: "testimonial",
+      text: "Any client testimonials, endorsements, or reviews shown on this site reflect the individual experience of the client, are not a guarantee of similar results, and were provided without compensation."
+    },
+    {
+      kind: "jurisdictional",
+      text: "Jeremy Rosenthal is licensed to practice in the State of Colorado. This website is not intended as a solicitation for legal services in any jurisdiction where the Law Firm of Jeremy Rosenthal is not licensed to practice."
+    },
+    {
+      kind: "podcast_general_information",
+      text: "The Denver Car Accident Attorneys podcast is general information about Colorado personal injury law for educational purposes only. It is not legal advice for your specific situation. For advice on your specific case, contact our office at (303) 825-2223 for a free consultation."
+    }
+  ]
 }

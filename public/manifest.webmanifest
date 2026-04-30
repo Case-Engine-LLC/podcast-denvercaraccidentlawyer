@@ -1,0 +1,21 @@
+{
+  "name": "Denver Car Accident Attorneys - Law Firm of Jeremy Rosenthal",
+  "short_name": "Rosenthal Law",
+  "description": "Colorado-specific car accident, motorcycle, dog-bite, and wrongful death education for Denver and the Front Range, hosted by trial attorney Jeremy Rosenthal.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070519",
+  "theme_color": "#070519",
+  "icons": [
+    {
+      "src": "/icon",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-icon",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
