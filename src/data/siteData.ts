@@ -364,22 +364,26 @@ export const topicalEntryGrid = {
         {
           "title": "Denver Car Accident Lawyer",
           "description": "Liability and the insurance-defense playbook in Denver car crashes - including I-25 rush-hour rear-ends - under Colorado's modified comparative fault rule.",
-          "href": "https://www.lawfirmofjeremyrosenthal.com/denver-car-accident-lawyer/"
+          "href": "https://www.lawfirmofjeremyrosenthal.com/denver-car-accident-lawyer/",
+          "image": "/topical/icon-pa-car.svg"
         },
         {
           "title": "What Does a Car Accident Attorney Do?",
           "description": "A walk-through of how the firm investigates fault, deals with adjusters, and resolves Colorado car accident claims from intake to settlement.",
-          "href": "https://www.lawfirmofjeremyrosenthal.com/what-does-a-car-accident-attorney-do/"
+          "href": "https://www.lawfirmofjeremyrosenthal.com/what-does-a-car-accident-attorney-do/",
+          "image": "/topical/icon-svc-investigate.svg"
         },
         {
           "title": "Common Auto Accident Injuries in Colorado",
           "description": "The injury patterns Jeremy sees most often in Denver crashes - from whiplash and concussion to spinal damage - and how each shapes the claim.",
-          "href": "https://www.lawfirmofjeremyrosenthal.com/common-auto-accident-injuries-in-colorado/"
+          "href": "https://www.lawfirmofjeremyrosenthal.com/common-auto-accident-injuries-in-colorado/",
+          "image": "/topical/icon-pa-medical.svg"
         },
         {
           "title": "Uninsured / Underinsured Motorist Claims",
           "description": "How UM/UIM coverage works in Colorado when the at-fault driver doesn't have enough insurance to cover your injuries.",
-          "href": "https://www.lawfirmofjeremyrosenthal.com/underinsured-uninsured-motorist-insurance-in-colorado/"
+          "href": "https://www.lawfirmofjeremyrosenthal.com/underinsured-uninsured-motorist-insurance-in-colorado/",
+          "image": "/topical/icon-svc-insurance.svg"
         }
       ]
     },
@@ -389,22 +393,26 @@ export const topicalEntryGrid = {
         {
           "title": "Denver Truck Accident Lawyer",
           "description": "Who can be held responsible in a Colorado commercial truck case - driver, motor carrier, broker, shipper, maintenance contractor - and how Jeremy builds the claim.",
-          "href": "https://www.lawfirmofjeremyrosenthal.com/denver-truck-accident-lawyer/"
+          "href": "https://www.lawfirmofjeremyrosenthal.com/denver-truck-accident-lawyer/",
+          "image": "/topical/icon-pa-truck.svg"
         },
         {
           "title": "What Does a Truck Accident Attorney Do?",
           "description": "How federal trucking regulation violations - hours-of-service, logbooks, drug screens - prove negligence in Colorado truck cases.",
-          "href": "https://www.lawfirmofjeremyrosenthal.com/what-does-a-truck-accident-attorney-do/"
+          "href": "https://www.lawfirmofjeremyrosenthal.com/what-does-a-truck-accident-attorney-do/",
+          "image": "/topical/icon-svc-comply.svg"
         },
         {
           "title": "Traumatic Brain Injury Cases",
           "description": "TBI cases from truck crashes require life-care planning for future treatment, assistive equipment, and lost earning capacity.",
-          "href": "https://www.lawfirmofjeremyrosenthal.com/denver-traumatic-brain-injury-lawyer/"
+          "href": "https://www.lawfirmofjeremyrosenthal.com/denver-traumatic-brain-injury-lawyer/",
+          "image": "/topical/icon-pa-medical.svg"
         },
         {
           "title": "Wrongful Death from Commercial Trucks",
           "description": "Surviving spouses, children, and parents in Colorado wrongful death cases involving commercial trucks - and the damages the firm pursues.",
-          "href": "https://www.lawfirmofjeremyrosenthal.com/wrongful-death-attorneys-in-denver/"
+          "href": "https://www.lawfirmofjeremyrosenthal.com/wrongful-death-attorneys-in-denver/",
+          "image": "/topical/icon-pa-wrongful-death.svg"
         }
       ]
     },
@@ -414,22 +422,26 @@ export const topicalEntryGrid = {
         {
           "title": "Denver Motorcycle Accident Lawyer",
           "description": "Motorcycle crashes from Denver to Boulder to the Front Range and the unique fault disputes riders face under Colorado law.",
-          "href": "https://www.lawfirmofjeremyrosenthal.com/denver-motorcycle-accident-lawyer/"
+          "href": "https://www.lawfirmofjeremyrosenthal.com/denver-motorcycle-accident-lawyer/",
+          "image": "/topical/icon-pa-moto.svg"
         },
         {
           "title": "What Does a Motorcycle Accident Attorney Do?",
           "description": "How Jeremy builds Colorado motorcycle cases - investigation, insurer bias rebuttal, and pushing back on assumptions about rider conduct.",
-          "href": "https://www.lawfirmofjeremyrosenthal.com/what-does-a-motorcycle-accident-attorney-do/"
+          "href": "https://www.lawfirmofjeremyrosenthal.com/what-does-a-motorcycle-accident-attorney-do/",
+          "image": "/topical/icon-svc-investigate.svg"
         },
         {
           "title": "Denver Bicycle Accident Attorney",
           "description": "Right-of-way, dooring, and visibility cases involving cyclists in Denver and Boulder - and Colorado-specific bike statutes.",
-          "href": "https://www.lawfirmofjeremyrosenthal.com/denver-bicycle-accident-attorney/"
+          "href": "https://www.lawfirmofjeremyrosenthal.com/denver-bicycle-accident-attorney/",
+          "image": "/topical/icon-pa-bike.svg"
         },
         {
           "title": "UM/UIM for Riders and Cyclists",
           "description": "Why UM/UIM coverage is the most important policy a Colorado motorcyclist or cyclist can carry.",
-          "href": "https://www.lawfirmofjeremyrosenthal.com/underinsured-uninsured-motorist-insurance-in-colorado/"
+          "href": "https://www.lawfirmofjeremyrosenthal.com/underinsured-uninsured-motorist-insurance-in-colorado/",
+          "image": "/topical/icon-svc-insurance.svg"
         }
       ]
     },
@@ -439,22 +451,26 @@ export const topicalEntryGrid = {
         {
           "title": "Denver Dog Bite Lawyer",
           "description": "How Colorado's strict-liability dog-bite statute (CRS 13-21-124) works for serious bodily injury cases and where the line is drawn.",
-          "href": "https://www.lawfirmofjeremyrosenthal.com/denver-dog-bite-lawyer/"
+          "href": "https://www.lawfirmofjeremyrosenthal.com/denver-dog-bite-lawyer/",
+          "image": "/topical/icon-svc-liability.svg"
         },
         {
           "title": "Denver Pedestrian Accident Lawyer",
           "description": "Pedestrian strikes often involve disputed fault and driver distraction. Jeremy investigates from scene to courtroom under Colorado law.",
-          "href": "https://www.lawfirmofjeremyrosenthal.com/denver-pedestrian-accident-lawyer/"
+          "href": "https://www.lawfirmofjeremyrosenthal.com/denver-pedestrian-accident-lawyer/",
+          "image": "/topical/icon-pa-pedestrian.svg"
         },
         {
           "title": "What Does a Pedestrian Accident Attorney Do?",
           "description": "How the firm proves liability and builds damages in Colorado pedestrian cases when an adjuster blames the victim for the crash.",
-          "href": "https://www.lawfirmofjeremyrosenthal.com/what-does-a-pedestrian-accident-attorney-do/"
+          "href": "https://www.lawfirmofjeremyrosenthal.com/what-does-a-pedestrian-accident-attorney-do/",
+          "image": "/topical/icon-svc-investigate.svg"
         },
         {
           "title": "Uber and Lyft Accident Lawyer",
           "description": "Rideshare collisions layer Colorado law over driver/rider liability. Multiple insurance policies often apply when an Uber or Lyft is involved.",
-          "href": "https://www.lawfirmofjeremyrosenthal.com/denver-uber-and-lyft-accident-lawyer/"
+          "href": "https://www.lawfirmofjeremyrosenthal.com/denver-uber-and-lyft-accident-lawyer/",
+          "image": "/topical/icon-pa-rideshare.svg"
         }
       ]
     },
@@ -464,22 +480,26 @@ export const topicalEntryGrid = {
         {
           "title": "What Does a Personal Injury Attorney Do?",
           "description": "How Jeremy works a Colorado personal injury claim from intake through settlement or trial - and what 'no fee unless you win' actually means.",
-          "href": "https://www.lawfirmofjeremyrosenthal.com/what-does-a-personal-injury-attorney-do/"
+          "href": "https://www.lawfirmofjeremyrosenthal.com/what-does-a-personal-injury-attorney-do/",
+          "image": "/topical/icon-svc-negotiate.svg"
         },
         {
           "title": "Case Results",
           "description": "Recent verdicts and settlements in Colorado personal injury, car accident, and wrongful death cases handled by the Law Firm of Jeremy Rosenthal.",
-          "href": "https://www.lawfirmofjeremyrosenthal.com/case-results/"
+          "href": "https://www.lawfirmofjeremyrosenthal.com/case-results/",
+          "image": "/topical/icon-svc-damages.svg"
         },
         {
           "title": "Free Consultation",
           "description": "Contact the firm directly. Free Colorado case review, contingency fee, no recovery means no fee.",
-          "href": "https://www.lawfirmofjeremyrosenthal.com/contact-us/"
+          "href": "https://www.lawfirmofjeremyrosenthal.com/contact-us/",
+          "image": "/topical/icon-phase-consult.svg"
         },
         {
           "title": "About the Law Firm of Jeremy Rosenthal",
           "description": "Founded by trial attorney Jeremy Rosenthal in Denver. 20+ years of Colorado personal injury experience, including an early-career stint defending insurance companies.",
-          "href": "https://www.lawfirmofjeremyrosenthal.com/about/"
+          "href": "https://www.lawfirmofjeremyrosenthal.com/about/",
+          "image": "/topical/icon-phase-resolve.svg"
         }
       ]
     }
