@@ -14,7 +14,7 @@ export const siteConfig = {
   },
   "formCTA": {
     "text": "Free Consultation",
-    "href": "#form"
+    "href": "https://www.lawfirmofjeremyrosenthal.com/contact-us/"
   },
   "firmUrl": "https://www.lawfirmofjeremyrosenthal.com/"
 };
@@ -224,11 +224,12 @@ export const navigation = {
     },
     {
       "name": "Contact",
-      "href": "#contact"
+      "href": "https://www.lawfirmofjeremyrosenthal.com/contact-us/",
+      "external": true
     }
   ],
   "ctaText": "Free Consultation",
-  "ctaHref": "#contact"
+  "ctaHref": "https://www.lawfirmofjeremyrosenthal.com/contact-us/"
 };
 
 export const footer = {
