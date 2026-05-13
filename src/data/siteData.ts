@@ -237,18 +237,13 @@ export const footer = {
   "description": "Denver Car Accident Attorneys is the official podcast of the Law Firm of Jeremy Rosenthal, a Denver personal injury practice serving people injured in car, truck, motorcycle, bicycle, pedestrian, rideshare, and dog-bite cases across Denver, Boulder, Aurora, and the Colorado Front Range. Hosted by Jeremy Rosenthal - a 20-year trial attorney who started his career defending insurance companies before switching to represent injured people - each weekly episode walks through one specific Colorado scenario under Colorado law.",
   "copyright": "Law Firm of Jeremy Rosenthal",
   "socialLinks": {
-    "twitter": "#",
-    "linkedin": "#",
-    "facebook": "#",
+    "facebook": "https://www.facebook.com/thelawfirmofjeremyrosenthal/",
     "instagram": "#",
-    "youtube": "#"
-  },
-  socialLinks: {
-      "facebook": "https://www.facebook.com/thelawfirmofjeremyrosenthal/",
-      "linkedin": "https://www.linkedin.com/company/the-law-firm-of-jeremy-rosenthal/",
-      "twitter": "https://x.com/JRLawFirm",
-      "youtube": "https://www.youtube.com/@LawFirmofJeremyRosenthalDenver"
-  },
+    "linkedin": "https://www.linkedin.com/company/the-law-firm-of-jeremy-rosenthal/",
+    "twitter": "https://x.com/JRLawFirm",
+    "youtube": "https://www.youtube.com/@LawFirmofJeremyRosenthalDenver",
+    "tiktok": ""
+  }
 };
 
 // Awards intentionally left empty - the Bible (zip_195630/Podcast Strategy/) does
