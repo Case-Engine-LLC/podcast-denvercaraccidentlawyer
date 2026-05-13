@@ -7,7 +7,7 @@ export const siteConfig = {
   "podcastName": "Denver Car Accident Attorneys - Law Firm of Jeremy Rosenthal",
   "tagline": "NEW EPISODE",
   "podcastUrl": "https://denvercaraccident.lawyer",
-  "rssFeedUrl": process.env.PODCAST_RSS_URL || "",
+  "rssFeedUrl": process.env.PODCAST_RSS_URL || "https://rss2.flightcast.com/ebnwpl5fifury2rjt7yvr3nu.xml",
   "platformLinks": {
     "apple": "#",
     "spotify": "#"
@@ -242,7 +242,13 @@ export const footer = {
     "facebook": "#",
     "instagram": "#",
     "youtube": "#"
-  }
+  },
+  socialLinks: {
+      "facebook": "https://www.facebook.com/thelawfirmofjeremyrosenthal/",
+      "linkedin": "https://www.linkedin.com/company/the-law-firm-of-jeremy-rosenthal/",
+      "twitter": "https://x.com/JRLawFirm",
+      "youtube": "https://www.youtube.com/@LawFirmofJeremyRosenthalDenver"
+  },
 };
 
 // Awards intentionally left empty - the Bible (zip_195630/Podcast Strategy/) does
@@ -358,6 +364,7 @@ export const podcastTeam = [
 
 export const topicalEntryGrid = {
   "title": "Explore Colorado Personal Injury Topics",
+  "description": "Browse the Colorado accident topics Jeremy Rosenthal covers on the podcast. Each card links to a deeper resource from the Law Firm of Jeremy Rosenthal on that situation.",
   "tabs": [
     {
       "label": "Car Accidents",
