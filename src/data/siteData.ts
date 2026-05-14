@@ -9,8 +9,8 @@ export const siteConfig = {
   "podcastUrl": "https://denvercaraccident.lawyer",
   "rssFeedUrl": process.env.PODCAST_RSS_URL || "https://rss2.flightcast.com/ebnwpl5fifury2rjt7yvr3nu.xml",
   "platformLinks": {
-    "apple": "#",
-    "spotify": "#"
+    "apple": "https://podcasts.apple.com/us/podcast/denver-accident-law-w-jeremy-rosenthal/id1886025016",
+    "spotify": "https://open.spotify.com/show/1rHK9frrfhlMXQOXCsOyO4"
   },
   "formCTA": {
     "text": "Free Consultation",
