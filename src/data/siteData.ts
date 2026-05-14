@@ -21,6 +21,7 @@ export const siteConfig = {
 
 export const episode = {
   "number": 1,
+  "slug": "rear-ended-on-i-25-your-first-24-hours-under-colorado-law",
   "title": "Rear-Ended on I-25: Your First 24 Hours Under Colorado Law",
   "date": "01.15.24",
   "duration": "00:45:30",
