@@ -281,6 +281,7 @@ export const subscribeCTA = {
 export const episodes = [
   {
     "id": 1,
+    "slug": "rear-ended-on-i-25-your-first-24-hours-under-colorado-law",
     "number": 1,
     "title": "Rear-Ended on I-25: Your First 24 Hours Under Colorado Law",
     "subtitle": "Episode 1 \u2022 Law Firm of Jeremy Rosenthal",
@@ -310,6 +311,7 @@ export const episodes = [
   },
   {
     "id": 2,
+    "slug": "colorado-s-modified-comparative-fault-rule-and-the-50-bar",
     "number": 2,
     "title": "Colorado's Modified Comparative Fault Rule and the 50% Bar",
     "subtitle": "Episode 2 \u2022 Law Firm of Jeremy Rosenthal",
