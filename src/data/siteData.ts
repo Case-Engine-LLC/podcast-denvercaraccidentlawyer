@@ -370,7 +370,7 @@ export const topicalEntryGrid = {
         {
           "title": "Denver Car Accident Lawyer",
           "description": "Liability and the insurance-defense playbook in Denver car crashes - including I-25 rush-hour rear-ends - under Colorado's modified comparative fault rule.",
-          "href": "https://www.lawfirmofjeremyrosenthal.com/denver-car-accident-lawyer/",
+          "href": "https://www.lawfirmofjeremyrosenthal.com/car-accidents/",
           "image": "/topical/icon-pa-car.svg"
         },
         {
