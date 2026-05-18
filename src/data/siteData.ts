@@ -307,7 +307,7 @@ export const episodes = [
       "Colorado's Two-Year Statute of Limitations",
       "Lightning Round + When to Call Our Office"
     ],
-    "logo": "/images/logo.svg",
+    "logo": "",
     "youtubeUrl": ""
   },
   {
@@ -336,7 +336,7 @@ export const episodes = [
       "When You Were Partially at Fault and Should Still Call",
       "Lightning Round + Free Consultation Reminder"
     ],
-    "logo": "/images/logo.svg",
+    "logo": "",
     "youtubeUrl": ""
   }
 ];
