@@ -12,6 +12,7 @@ interface LatestEpisodesProps {
 
 const LatestEpisodes = ({ episodes: propEpisodes }: LatestEpisodesProps) => {
   const episodesData = propEpisodes ?? staticEpisodesData
+  const fallbackArt = episodesData.find((e) => e.logo && e.logo.trim() !== '')?.logo
   const [viewMode, setViewMode] = useState<'list' | 'grid'>('list')
   const [topicFilter, setTopicFilter] = useState('All')
   const [locationFilter, setLocationFilter] = useState('All')
@@ -116,8 +117,8 @@ const LatestEpisodes = ({ episodes: propEpisodes }: LatestEpisodesProps) => {
                   {/* Cover */}
                   <div className="col-span-1">
                     <div className="w-16 h-16 md:w-full md:aspect-square flex-shrink-0 rounded-lg overflow-hidden bg-gray-200">
-                      {ep.logo ? (
-                        <img src={ep.logo} alt={ep.title} className="w-full h-full object-cover" />
+                      {(ep.logo || fallbackArt) ? (
+                        <img src={ep.logo || fallbackArt} alt={ep.title} className="w-full h-full object-cover" />
                       ) : (
                         <div className="w-full h-full bg-[#d4d4d4] flex items-center justify-center">
                           <span className="text-xs text-gray-500">Ep {ep.number}</span>
@@ -174,8 +175,8 @@ const LatestEpisodes = ({ episodes: propEpisodes }: LatestEpisodesProps) => {
               >
                 {/* Cover Image */}
                 <div className="relative w-full md:w-[340px] flex-shrink-0 aspect-square md:aspect-auto">
-                  {ep.logo ? (
-                    <img src={ep.logo} alt={ep.title} className="w-full h-full object-cover" />
+                  {(ep.logo || fallbackArt) ? (
+                    <img src={ep.logo || fallbackArt} alt={ep.title} className="w-full h-full object-cover" />
                   ) : (
                     <div className="w-full h-full bg-[#091830] flex items-center justify-center">
                       <span className="text-3xl font-heading text-white/30">Ep {ep.number}</span>

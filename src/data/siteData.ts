@@ -307,7 +307,7 @@ export const episodes = [
       "Colorado's Two-Year Statute of Limitations",
       "Lightning Round + When to Call Our Office"
     ],
-    "logo": "",
+    "logo": "/images/d943e6d7-a34b-47d6-ab66-4ec5d8781d10.png",
     "youtubeUrl": ""
   },
   {

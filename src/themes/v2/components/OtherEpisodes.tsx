@@ -21,6 +21,7 @@ interface OtherEpisodesProps {
 
 function OtherEpisodes({ episodes: propEpisodes }: OtherEpisodesProps) {
   const episodesData = propEpisodes ?? staticEpisodesData
+  const fallbackArt = episodesData.find((e) => e.logo && e.logo.trim() !== '')?.logo
   const [currentIndex, setCurrentIndex] = useState(0)
 
   const episodes: EpisodeCard[] = [
@@ -83,6 +84,7 @@ function OtherEpisodes({ episodes: propEpisodes }: OtherEpisodesProps) {
           >
             {episodes.map((ep) => {
               const href = ep.isComingSoon ? '#subscribe' : `/episode/${(ep as unknown as { slug?: string; id?: string | number }).slug ?? (ep as unknown as { id?: string | number }).id ?? 1}`
+              const cover = fallbackArt
 
               return (
                 <Link
@@ -91,7 +93,7 @@ function OtherEpisodes({ episodes: propEpisodes }: OtherEpisodesProps) {
                   className="group flex flex-col flex-shrink-0 w-full md:w-[calc(33.333%-1rem)]"
                 >
                   {/* Image placeholder */}
-                  <div className="aspect-video bg-[#10284B] rounded-2xl mb-4 overflow-hidden relative flex items-center justify-center">
+                  <div className="aspect-square bg-[#10284B] rounded-2xl mb-4 overflow-hidden relative flex items-center justify-center">
                     {ep.isComingSoon ? (
                       <div className="text-center">
                         <div className="w-12 h-12 rounded-full border-2 border-white/20 flex items-center justify-center mx-auto mb-3">
@@ -101,6 +103,8 @@ function OtherEpisodes({ episodes: propEpisodes }: OtherEpisodesProps) {
                         </div>
                         <span className="text-sm text-white/30 font-medium">Coming Soon</span>
                       </div>
+                    ) : cover ? (
+                      <img src={cover} alt={ep.title} className="absolute inset-0 w-full h-full object-contain" />
                     ) : (
                       <svg width="60" height="60" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg" className="text-white/20">
                         <circle cx="45" cy="35" r="12" stroke="currentColor" strokeWidth="2" />

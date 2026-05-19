@@ -29,7 +29,7 @@ const V2AuthorPage = ({ slug }: V2AuthorPageProps) => {
 
       <main>
         {/* Hero Section */}
-        <section className="relative pt-28 pb-16 bg-[#10284B] overflow-hidden">
+        <section className="relative pt-36 md:pt-44 pb-16 bg-[#10284B] overflow-hidden">
 
           <div className="max-w-7xl mx-auto px-6 relative z-10">
             {/* Breadcrumb */}

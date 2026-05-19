@@ -57,7 +57,6 @@ const Footer = () => {
           <div>
             <h4 className="text-white font-bold mb-6">Resources</h4>
             <ul className="space-y-4 text-sm text-slate-400">
-              <li><a href="#car-accident-attorney" className="hover:text-amber-500 transition-colors">Car Accident Guide</a></li>
               <li><a href={`tel:${contact.phone}`} className="hover:text-amber-500 transition-colors">Contact Attorneys</a></li>
             </ul>
           </div>
