@@ -147,51 +147,51 @@ export const content = {
 export const testimonials = [
   {
     "id": 1,
-    "name": "Michael T.",
-    "initials": "MT",
-    "role": "Google Reviewer",
+    "name": "Rory",
+    "initials": "R",
+    "role": "Verified Client",
     "rating": 5,
-    "text": "Jeremy Rosenthal handled my car accident case with incredible professionalism and care. He kept me informed every step of the way and secured a settlement that exceeded my expectations. I highly recommend his firm to anyone injured in Denver."
+    "text": "Top-notch and professional! Jeremy and his staff are very professional and kept me up to date regarding my case in a timely manner. E-mails are answered quickly and every step of the process is explained thoroughly. I would highly recommend them to anyone needing legal assistance."
   },
   {
     "id": 2,
-    "name": "Sarah K.",
-    "initials": "SK",
-    "role": "Google Reviewer",
+    "name": "Emily S.",
+    "initials": "ES",
+    "role": "Verified Client",
     "rating": 5,
-    "text": "After my motorcycle accident, I was overwhelmed and didn't know where to turn. Jeremy Rosenthal and his team took the burden off my shoulders and fought tirelessly for my rights. The settlement allowed me to focus on recovery without financial stress."
+    "text": "Jeremy eased my stress and got me a great outcome! I had to deal with an unexpected legal situation and was so nervous. Jeremy totally eased my stress and he got me a great outcome! I was extremely happy with his representation and highly recommend him."
   },
   {
     "id": 3,
-    "name": "Robert M.",
-    "initials": "RM",
-    "role": "Google Reviewer",
+    "name": "Grant S.",
+    "initials": "GS",
+    "role": "Verified Client",
     "rating": 5,
-    "text": "The Law Firm of Jeremy Rosenthal is simply the best in Denver for personal injury cases. Jeremy's knowledge of Colorado law is impressive, and his dedication to his clients is unmatched. I couldn't have asked for better representation."
+    "text": "It was great to work with Jeremy. He was always on top of it, and was very clear with how he communicated. I'd definitely recommend Jeremy to anyone. He definitely was the right attorney to use for my bicycle/car accident."
   },
   {
     "id": 4,
-    "name": "Jennifer L.",
-    "initials": "JL",
-    "role": "Google Reviewer",
+    "name": "Ben G.",
+    "initials": "BG",
+    "role": "Verified Client",
     "rating": 5,
-    "text": "Jeremy Rosenthal made a difficult time so much easier. After my rideshare accident, he handled everything with the insurance companies while I focused on healing. His podcast also helped me understand my rights before we even met."
+    "text": "As soon as I started working with Jeremy everything in my life became much easier. He set up my doctors appointments, spoke to all the insurance companies, and made sure I was taken care of financially and medically. It was the best experience I have ever had. I literally did nothing in terms of paperwork or communication with insurance and medical companies. I went to my appointments and made sure I was healthy again. If you ever get in a severe accident make sure you call Jeremy. He truly is the best!"
   },
   {
     "id": 5,
-    "name": "David H.",
-    "initials": "DH",
-    "role": "Google Reviewer",
+    "name": "Vicky A.",
+    "initials": "VA",
+    "role": "Verified Client",
     "rating": 5,
-    "text": "I was hit by a truck in Denver and suffered serious injuries. Jeremy Rosenthal's expertise and compassion made all the difference. He secured a substantial settlement that covered my medical bills and lost income. I'm forever grateful."
+    "text": "If you want an attorney who will go above and beyond then he is the one. He cares about his clients, he fights for you till the end. Thank you for everything you did."
   },
   {
     "id": 6,
-    "name": "Amanda R.",
-    "initials": "AR",
-    "role": "Google Reviewer",
+    "name": "Josh O.",
+    "initials": "JO",
+    "role": "Verified Client",
     "rating": 5,
-    "text": "After listening to Jeremy Rosenthal's podcast, I knew he was the right attorney for my bicycle accident case. His straightforward approach and deep knowledge of personal injury law gave me confidence throughout the entire process."
+    "text": "He is the epitome of what you want in a lawyer. Smart, professional, caring, a great listener, efficient and more. He went to work on behalf of my Mom after a severe car accident and out-performed our wildest expectations. Although we met by accident (that pun was intended) I can't tell you how lucky we feel to have met and decided to hire Jeremy."
   }
 ];
 
