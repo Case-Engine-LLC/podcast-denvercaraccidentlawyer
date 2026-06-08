@@ -25,7 +25,7 @@ const V2Home = ({ episodes }: V2HomeProps) => {
 
       <main>
         {/* Hero */}
-        <Hero />
+        <Hero latestEpisode={episodes?.[0]} />
 
         {/* Trust Badges + Stats (white section) */}
         <section className="py-10 mt-10 bg-white border-y border-gray-100">
@@ -54,7 +54,7 @@ const V2Home = ({ episodes }: V2HomeProps) => {
         </section>
       </main>
 
-      <Footer />
+      <Footer episodes={episodes} />
     </div>
   )
 }
