@@ -90,7 +90,7 @@ export const faqGroups = [
       {
         "question": "How often are new episodes released?",
         "level": "h3",
-        "answer": "Denver Car Accident Attorneys is a weekly podcast with continuous, evergreen publishing. Full episodes run roughly 60-90 minutes for deep single-topic walkthroughs; shorter Extension episodes (20-30 minutes) cover narrower scenarios like a specific intersection, injury type, or insurance situation."
+        "answer": "Denver Car Accident Attorneys is a podcast with continuous, evergreen publishing. Full episodes run roughly 60-90 minutes for deep single-topic walkthroughs; shorter Extension episodes (20-30 minutes) cover narrower scenarios like a specific intersection, injury type, or insurance situation."
       },
       {
         "question": "Who is the show for?",
@@ -134,7 +134,7 @@ export const faqGroups = [
 
 export const content = {
   "heroTitle": "Denver Car Accident Attorneys",
-  "heroDescription": "Straight answers about Colorado car accidents from the attorney who used to work the other side. Jeremy Rosenthal - founder of the Law Firm of Jeremy Rosenthal in Denver - spent the early part of his career defending insurance companies before switching to represent injured people. Each weekly episode walks through one specific Colorado scenario under Colorado law: rear-ended on I-25, hit by a truck on I-70, a bicycle crash on Speer Boulevard, a dog bite at a Cherry Creek dog park.",
+  "heroDescription": "Straight answers about Colorado car accidents from the attorney who used to work the other side. Jeremy Rosenthal - founder of the Law Firm of Jeremy Rosenthal in Denver - spent the early part of his career defending insurance companies before switching to represent injured people. Each episode walks through one specific Colorado scenario under Colorado law: rear-ended on I-25, hit by a truck on I-70, a bicycle crash on Speer Boulevard, a dog bite at a Cherry Creek dog park.",
   "articleTitle": "Colorado Personal Injury, Explained Plainly",
   "articleParagraphs": [
     "Colorado has unique personal injury laws that most national PI content ignores - modified comparative fault with a 50% bar, a two-year statute of limitations, specific rules around uninsured/underinsured motorist coverage, and a no-fault state for property damage but not for bodily injury. People in Denver, Boulder, and the Front Range who get in car accidents are searching for answers and finding content written by lawyers in California, Texas, or Florida that does not apply to their situation.",
@@ -235,7 +235,7 @@ export const navigation = {
 
 export const footer = {
   "logo": "Law Firm of Jeremy Rosenthal",
-  "description": "Denver Car Accident Attorneys is the official podcast of the Law Firm of Jeremy Rosenthal, a Denver personal injury practice serving people injured in car, truck, motorcycle, bicycle, pedestrian, rideshare, and dog-bite cases across Denver, Boulder, Aurora, and the Colorado Front Range. Hosted by Jeremy Rosenthal - a 20-year trial attorney who started his career defending insurance companies before switching to represent injured people - each weekly episode walks through one specific Colorado scenario under Colorado law.",
+  "description": "Denver Car Accident Attorneys is the official podcast of the Law Firm of Jeremy Rosenthal, a Denver personal injury practice serving people injured in car, truck, motorcycle, bicycle, pedestrian, rideshare, and dog-bite cases across Denver, Boulder, Aurora, and the Colorado Front Range. Hosted by Jeremy Rosenthal - a 20-year trial attorney who started his career defending insurance companies before switching to represent injured people - each episode walks through one specific Colorado scenario under Colorado law.",
   "copyright": "Law Firm of Jeremy Rosenthal",
   "socialLinks": {
     "facebook": "https://www.facebook.com/thelawfirmofjeremyrosenthal/",
@@ -255,9 +255,9 @@ export const awards: { name: string; description: string }[] = [];
 
 export const about = {
   "title": "About Denver Car Accident Attorneys with Jeremy Rosenthal",
-  "description": "Denver Car Accident Attorneys is the weekly podcast of the Law Firm of Jeremy Rosenthal - Colorado-specific personal injury education built for Denver and the Front Range, delivered by a trial attorney who used to defend insurance companies and now uses that inside knowledge to fight for injured people. Each episode takes one scenario the firm handles regularly - rear-ended on I-25 during rush hour, hit by a truck on I-70 coming out of the mountains, a bicycle crash on Speer Boulevard, a dog bite at a Cherry Creek dog park - and walks through it under Colorado law. What your rights are, what the insurance company is going to do, what deadlines you are up against under Colorado's two-year statute of limitations and modified comparative fault rules, and what Jeremy has seen happen in 20+ years handling these cases in Denver County courts. The show is for regular people who just got in an accident in Denver, Boulder, Aurora, or anywhere along the Front Range, not for other lawyers.",
+  "description": "Denver Car Accident Attorneys is the podcast of the Law Firm of Jeremy Rosenthal - Colorado-specific personal injury education built for Denver and the Front Range, delivered by a trial attorney who used to defend insurance companies and now uses that inside knowledge to fight for injured people. Each episode takes one scenario the firm handles regularly - rear-ended on I-25 during rush hour, hit by a truck on I-70 coming out of the mountains, a bicycle crash on Speer Boulevard, a dog bite at a Cherry Creek dog park - and walks through it under Colorado law. What your rights are, what the insurance company is going to do, what deadlines you are up against under Colorado's two-year statute of limitations and modified comparative fault rules, and what Jeremy has seen happen in 20+ years handling these cases in Denver County courts. The show is for regular people who just got in an accident in Denver, Boulder, Aurora, or anywhere along the Front Range, not for other lawyers.",
   "highlights": [
-    "Weekly Colorado-specific personal injury episodes - no generic California or Texas content",
+    "Colorado-specific personal injury episodes - no generic California or Texas content",
     "Rear-end, intersection, I-25, and I-70 mountain corridor car accident scenarios under Colorado law",
     "Truck, motorcycle, bicycle, pedestrian, Uber/Lyft, and dog-bite cases under CRS 13-21-124",
     "Insurance defense insider perspective - Jeremy explains what the other side is doing and why",
