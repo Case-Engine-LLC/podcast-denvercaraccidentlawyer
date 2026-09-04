@@ -3,7 +3,7 @@
  * pipeline to refresh. */
 import type { TranscriptSegment } from '@/lib/rss'
 
-export const generatedTranscripts: Record<number, TranscriptSegment[]> = {
+export const generatedTranscripts: Record<string, TranscriptSegment[]> = {
   1: [
     { timestamp: "00:00", speaker: "Abby", text: "Welcome to our very first episode of Denver Accident Law with Jeremy Rosenthal, the podcast about car accident and personal injury law serving Denver, Colorado. I'm Abby, and today we're doing something special. We're going to explore the expertise and background of our, our co-host and expert attorney Jeremy Rosenthal, and what we affectionately call the You Interview. We want to get to know how Jeremy became Jeremy Rosenthal, the founder of Denver, Colorado based law firm of Jeremy Rosenthal. That's exactly what we're here to explore today. So Jeremy, thank you so much for being here." },
     { timestamp: "00:00", speaker: "Jeremy", text: "Thanks so much for having me, Abby. I'm looking forward to it." },
